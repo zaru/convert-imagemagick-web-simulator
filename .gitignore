@@ -1,6 +1,8 @@
 .DS_Store
 node_modules
 /dist
+public/magick.js
+public/magick.wasm
 
 # local env files
 .env.local
