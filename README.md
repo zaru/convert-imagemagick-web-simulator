@@ -1,4 +1,4 @@
-# convert-sim
+# convert imagemagick web simulator
 
 ## Project setup
 ```
